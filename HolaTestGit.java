@@ -3,5 +3,6 @@ public class HolaTestGit {
    private Long id;
    private String apellido;
    private Long edad;
+   private Integer medicion;
 
 }
