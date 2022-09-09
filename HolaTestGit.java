@@ -4,5 +4,7 @@ public class HolaTestGit {
    private String apellido;
    private Long edad;
    private Integer medicion;
+   private Integer medicion2;
+   private Integer medicion3;
 
 }
